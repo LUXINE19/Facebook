@@ -6,3 +6,5 @@
        $ cd Facebook
        $ git pull
        $ python estenc.py
+# Donate 
+083863287464 Dana
